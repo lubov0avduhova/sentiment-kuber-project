@@ -1,0 +1,24 @@
+{
+  "positive": {
+    "good": 0.4,
+    "great": 0.5,
+    "excellent": 0.6,
+    "love": 0.5,
+    "amazing": 0.6,
+    "happy": 0.4,
+    "fantastic": 0.6,
+    "kubernetes": 0.3,
+    "cloud": 0.2
+  },
+  "negative": {
+    "bad": 0.4,
+    "terrible": 0.6,
+    "hate": 0.5,
+    "awful": 0.6,
+    "sad": 0.4,
+    "angry": 0.4,
+    "bug": 0.3,
+    "crash": 0.3,
+    "slow": 0.3
+  }
+}

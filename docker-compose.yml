@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  sentiment:
+    image: sentiment-app:1.0.0
+    build:
+      context: .
+    ports:
+      - "8080:8080"
